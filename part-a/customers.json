@@ -1,0 +1,254 @@
+[
+  {
+    "id": "cus_001",
+    "name": "Rohan Nair",
+    "city": "Pune",
+    "status": "paused",
+    "channel": "email",
+    "totalSpent": 0,
+    "createdAt": "2026-02-27T09:00:00.000Z"
+  },
+  {
+    "id": "cus_002",
+    "name": "Priya Patel",
+    "city": "Nashik",
+    "status": "churned",
+    "channel": "whatsapp",
+    "totalSpent": 4800,
+    "createdAt": "2026-01-12T09:00:00.000Z"
+  },
+  {
+    "id": "cus_003",
+    "name": "Amit Joshi",
+    "city": "Nagpur",
+    "status": "active",
+    "channel": "whatsapp",
+    "totalSpent": 250,
+    "createdAt": "2026-09-23T09:00:00.000Z"
+  },
+  {
+    "id": "cus_004",
+    "name": "Sneha Sharma",
+    "city": "Indore",
+    "status": "churned",
+    "channel": "whatsapp",
+    "totalSpent": 4800,
+    "createdAt": "2026-01-28T09:00:00.000Z"
+  },
+  {
+    "id": "cus_005",
+    "name": "Vikram Menon",
+    "city": "Nagpur",
+    "status": "active",
+    "channel": "whatsapp",
+    "totalSpent": 0,
+    "createdAt": "2026-09-14T09:00:00.000Z"
+  },
+  {
+    "id": "cus_006",
+    "name": "Neha Reddy",
+    "city": "Nagpur",
+    "status": "active",
+    "channel": "email",
+    "totalSpent": 250,
+    "createdAt": "2026-05-27T09:00:00.000Z"
+  },
+  {
+    "id": "cus_007",
+    "name": "Arjun Chauhan",
+    "city": "Surat",
+    "status": "active",
+    "channel": "whatsapp",
+    "totalSpent": 4800,
+    "createdAt": "2026-06-13T09:00:00.000Z"
+  },
+  {
+    "id": "cus_008",
+    "name": "Kavya Shah",
+    "city": "Surat",
+    "status": "active",
+    "channel": "email",
+    "totalSpent": 0,
+    "createdAt": "2026-04-25T09:00:00.000Z"
+  },
+  {
+    "id": "cus_009",
+    "name": "Rahul Gupta",
+    "city": "Thane",
+    "status": "paused",
+    "channel": "sms",
+    "totalSpent": 75,
+    "createdAt": "2026-08-21T09:00:00.000Z"
+  },
+  {
+    "id": "cus_010",
+    "name": "Divya Reddy",
+    "city": "Pune",
+    "status": "active",
+    "channel": "email",
+    "totalSpent": 4800,
+    "createdAt": "2026-02-28T09:00:00.000Z"
+  },
+  {
+    "id": "cus_011",
+    "name": "Karan Reddy",
+    "city": "Thane",
+    "status": "paused",
+    "channel": "sms",
+    "totalSpent": 75,
+    "createdAt": "2026-05-12T09:00:00.000Z"
+  },
+  {
+    "id": "cus_012",
+    "name": "Ananya Patel",
+    "city": "Thane",
+    "status": "paused",
+    "channel": "whatsapp",
+    "totalSpent": 320,
+    "createdAt": "2026-03-25T09:00:00.000Z"
+  },
+  {
+    "id": "cus_013",
+    "name": "Suresh Joshi",
+    "city": "Mumbai",
+    "status": "churned",
+    "channel": "whatsapp",
+    "totalSpent": 320,
+    "createdAt": "2026-06-21T09:00:00.000Z"
+  },
+  {
+    "id": "cus_014",
+    "name": "Meera Menon",
+    "city": "Nagpur",
+    "status": "churned",
+    "channel": "sms",
+    "totalSpent": 250,
+    "createdAt": "2026-02-18T09:00:00.000Z"
+  },
+  {
+    "id": "cus_015",
+    "name": "Nikhil Kulkarni",
+    "city": "Surat",
+    "status": "churned",
+    "channel": "whatsapp",
+    "totalSpent": 0,
+    "createdAt": "2026-05-28T09:00:00.000Z"
+  },
+  {
+    "id": "cus_016",
+    "name": "Pooja Gupta",
+    "city": "Indore",
+    "status": "paused",
+    "channel": "sms",
+    "totalSpent": 9900,
+    "createdAt": "2026-06-10T09:00:00.000Z"
+  },
+  {
+    "id": "cus_017",
+    "name": "Sandeep Kulkarni",
+    "city": "Nashik",
+    "status": "active",
+    "channel": "email",
+    "totalSpent": 250,
+    "createdAt": "2026-08-11T09:00:00.000Z"
+  },
+  {
+    "id": "cus_018",
+    "name": "Ritu Deshmukh",
+    "city": "Indore",
+    "status": "paused",
+    "channel": "whatsapp",
+    "totalSpent": 4800,
+    "createdAt": "2026-07-22T09:00:00.000Z"
+  },
+  {
+    "id": "cus_019",
+    "name": "Manish Chauhan",
+    "city": "Nagpur",
+    "status": "active",
+    "channel": "whatsapp",
+    "totalSpent": 75,
+    "createdAt": "2026-07-27T09:00:00.000Z"
+  },
+  {
+    "id": "cus_020",
+    "name": "Tanvi Reddy",
+    "city": "Pune",
+    "status": "paused",
+    "channel": "email",
+    "totalSpent": 15000,
+    "createdAt": "2026-07-21T09:00:00.000Z"
+  },
+  {
+    "id": "cus_021",
+    "name": "Gaurav Gupta",
+    "city": "Nagpur",
+    "status": "active",
+    "channel": "whatsapp",
+    "totalSpent": 250,
+    "createdAt": "2026-03-14T09:00:00.000Z"
+  },
+  {
+    "id": "cus_022",
+    "name": "Shreya Deshmukh",
+    "city": "Surat",
+    "status": "active",
+    "channel": "whatsapp",
+    "totalSpent": 75,
+    "createdAt": "2026-03-18T09:00:00.000Z"
+  },
+  {
+    "id": "cus_023",
+    "name": "Deepak Reddy",
+    "city": "Mumbai",
+    "status": "active",
+    "channel": "sms",
+    "totalSpent": 320,
+    "createdAt": "2026-06-14T09:00:00.000Z"
+  },
+  {
+    "id": "cus_024",
+    "name": "Ishita Bhat",
+    "city": "Indore",
+    "status": "churned",
+    "channel": "email",
+    "totalSpent": 0,
+    "createdAt": "2026-08-27T09:00:00.000Z"
+  },
+  {
+    "id": "cus_025",
+    "name": "Vivek Joshi",
+    "city": "Nagpur",
+    "status": "paused",
+    "channel": "sms",
+    "totalSpent": 250,
+    "createdAt": "2026-08-22T09:00:00.000Z"
+  },
+  {
+    "id": "cus_026",
+    "name": "Aarti Sharma",
+    "city": "Pune",
+    "status": "active",
+    "channel": "whatsapp",
+    "totalSpent": 75,
+    "createdAt": "2026-03-13T09:00:00.000Z"
+  },
+  {
+    "id": "cus_027",
+    "name": "Farhan Nair",
+    "city": "Thane",
+    "status": "active",
+    "channel": "whatsapp",
+    "totalSpent": 0,
+    "createdAt": "2026-03-27T09:00:00.000Z"
+  },
+  {
+    "id": "cus_028",
+    "name": "Nisha Patel",
+    "city": "Nashik",
+    "status": "churned",
+    "channel": "whatsapp",
+    "totalSpent": 250,
+    "createdAt": "2026-04-22T09:00:00.000Z"
+  }
+]
